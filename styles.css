@@ -1,0 +1,60 @@
+:root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+header {
+    /* border: 1px solid red; */
+
+}
+header h2 {
+    font-size: 2.2rem;
+    text-align: center;
+
+
+}
+.colors {
+    /* border: 1px solid rgb(0, 255, 64); */
+}
+header h3 {
+    font-size: 1.8rem;
+    text-align: center;
+}
+header h4 {
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(67, 68, 78);
+    font-weight: bold;
+    margin: 2px;
+}
+.palettes {
+    /* border: 1px solid rgb(17, 0, 255); */
+}
+.palettes li {
+    /* border: 1px solid rgb(17, 0, 255); */
+    display: inline-block;
+    list-style: none;
+    font-weight: bold;
+    /* color: rgb(213, 224, 217); */
+    width: 11em;
+    height: 5em;
+    margin: 5px 3%;
+    border-radius: 5px;
+    text-align: center;
+}
+.typo {
+    /* margin: 20px auto; */
+    text-align: center;
+    /* border: 1px solid rgb(17, 0, 255); */
+}
+.typo h1 {
+    font-size: 2em;
+}
+.typo h1, h2, h3, h4, h5, h6 {
+    margin: 30px auto;
+}
+
+

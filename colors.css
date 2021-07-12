@@ -1,0 +1,28 @@
+.black {
+    background-color: #000000;
+    color: white;
+}
+.c {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    color: rgb(3, 80, 80);
+    opacity: .8;
+}
+.silver {
+    background-color: #c0c0c0;
+}
+.teal {
+    background-color: #008080;
+}
+.gray {
+    background-color: #808080;
+}
+.maroon {
+    background-color: #800000;
+    color: white;
+}
+.darkslategray {
+    background-color: #2f4f4f;
+    color: white;
+}
+

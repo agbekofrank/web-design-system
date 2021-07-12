@@ -1,0 +1,42 @@
+.article-fonts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.font {
+  border: 3px solid rgb(132, 132, 146);
+  width: 21%;
+  border-radius: 10px;
+  transition: ease-in-out all .5s;
+  /* margin: 1% 1%;
+  display: inline-block; */
+}
+.font:hover{
+    border: none;
+    transform:skewX(3);
+}
+p {
+  margin: 10px auto;
+  text-align: center;
+}
+.inconsolata {
+    font-family: 'Inconsolata', monospace;
+}
+.nunito {
+    font-family: 'Nunito', sans-serif;
+}
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+.noto {
+  font-family: "Noto Sans TC", sans-serif;
+}
+.regular {
+    font-weight: normal;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
